@@ -25,11 +25,13 @@ Build industry-ready AI/ML projects that demonstrate:
 
 ### ✅ CLI Calculator  
 Modular command-line calculator built using OOP principles.  
-🔗 Repository: (Add calculator repo link)
+🔗 Repository: [CLI Calculator](https://github.com/giri-codes/scientific-cli-calculator)
+
 
 ### ✅ Expense Tracker CLI  
 CLI-based expense manager with CRUD operations and JSON persistence.  
-🔗 Repository: (Add expense tracker repo link)
+🔗 Repository: [Expense Tracker CLI](https://github.com/giri-codes/expense-tracker-cli)
+
 
 ---
 
