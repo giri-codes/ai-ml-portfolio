@@ -1,29 +1,97 @@
-# Python Projects
+# AI/ML Projects Portfolio
 
-This repository contains all my Python mini and major projects.  
-Each project has its own folder for a clean and professional structure.
+This repository serves as the master index of my structured journey toward becoming an AI/ML Engineer.
 
-## 📁 Project List (10 Essential Projects)
-These 10 projects will cover real-world Python usage, logic building, APIs, file handling, and automation.
+Each major project is maintained in its own dedicated repository with clean architecture, documentation, and version control.
 
-1. **bmi-calculator** – Simple console BMI calculator  
-2. **password-generator** – Strong password generator with length control  
-3. **file-organizer** – Automatically organize files into folders  
-4. **expense-tracker** – Add/view/delete expenses stored in CSV  
-5. **calorie-counter** – Track foods + calories stored in CSV  
-6. **weather-app** – Uses API to fetch live weather  
-7. **todo-cli-app** – Command-line To-Do app with CRUD  
-8. **mini-web-scraper** – Scrapes basic information from websites  
-9. **pdf-tools** – PDF merger/splitter automation tool  
-10. **simple-chatbot** – Rule-based chatbot (basic NLP logic)
+This portfolio follows a phase-based progression aligned with my Artificial Intelligence curriculum.
 
-(Projects will be added step-by-step when I learn them.)
+---
 
-## 🎯 Goal
-Build real-world projects to improve coding confidence, logic, and problem-solving skills.
+## 🎯 Objective
 
-This repo will serve as part of my GitHub portfolio and will be linked to my LinkedIn and resume.
+Build industry-ready AI/ML projects that demonstrate:
 
+- Strong Python fundamentals  
+- Data analysis and visualization skills  
+- Machine learning model development  
+- Deep learning implementation  
+- NLP and computer vision applications  
+- Model deployment and end-to-end system design  
 
-## 📅 Updates
-I will upload each project folder when I build it.
+---
+
+# 🟢 Phase 1 – Python Foundations (Completed)
+
+### ✅ CLI Calculator  
+Modular command-line calculator built using OOP principles.  
+🔗 Repository: (Add calculator repo link)
+
+### ✅ Expense Tracker CLI  
+CLI-based expense manager with CRUD operations and JSON persistence.  
+🔗 Repository: (Add expense tracker repo link)
+
+---
+
+# 🟡 Phase 2 – Data Science (In Progress)
+
+- ⏳ Data Analysis Project (NumPy + Pandas)  
+- ⏳ Data Visualization Project (Matplotlib + Seaborn)
+
+---
+
+# 🔵 Phase 3 – Machine Learning
+
+- ⏳ Regression Model Project  
+- ⏳ Classification Model Project  
+
+---
+
+# 🟣 Phase 4 – Deep Learning
+
+- ⏳ ANN Project  
+- ⏳ CNN (Computer Vision) Project  
+
+---
+
+# 🟤 Phase 5 – Natural Language Processing
+
+- ⏳ NLP Text Classification Project  
+
+---
+
+# ⚫ Phase 6 – Deployment
+
+- ⏳ ML Model Deployment (Flask / FastAPI)
+
+---
+
+# 🔴 Phase 7 – Capstone Project
+
+- ⏳ End-to-End AI System (Data → Model → Deployment)
+
+---
+
+## 📈 Roadmap Strategy
+
+This portfolio is built using a structured progression:
+
+1. Master Python fundamentals  
+2. Develop strong data handling skills  
+3. Build core machine learning models  
+4. Advance into deep learning  
+5. Apply AI to NLP and Computer Vision  
+6. Deploy models into real-world systems  
+
+---
+
+## 📌 Portfolio Philosophy
+
+- Each project is maintained in a separate repository  
+- Emphasis on clean structure and documentation  
+- Focus on depth over quantity  
+- Continuous improvement and iteration  
+
+---
+
+🚀 This repository will evolve as new projects are completed.
