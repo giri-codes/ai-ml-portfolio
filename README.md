@@ -1,23 +1,22 @@
 # AI/ML Projects Portfolio
 
-This repository serves as the master index of my structured journey toward becoming an AI/ML Engineer.
+This repository serves as the master index of my structured journey toward becoming a Machine Learning Engineer.
 
 Each major project is maintained in its own dedicated repository with clean architecture, documentation, and version control.
 
-This portfolio follows a phase-based progression aligned with my Artificial Intelligence curriculum.
+This portfolio is designed to demonstrate strong foundations in Python, SQL, data analysis, machine learning, and deployment.
 
 ---
 
 ## 🎯 Objective
 
-Build industry-ready AI/ML projects that demonstrate:
+Build industry-ready projects that demonstrate:
 
 - Strong Python fundamentals  
-- Data analysis and visualization skills  
+- Database design and SQL proficiency  
+- Data analysis and visualization  
 - Machine learning model development  
-- Deep learning implementation  
-- NLP and computer vision applications  
-- Model deployment and end-to-end system design  
+- End-to-end ML deployment  
 
 ---
 
@@ -35,65 +34,46 @@ CLI-based expense manager with CRUD operations and JSON persistence.
 
 ---
 
-# 🟡 Phase 2 – Data Science (In Progress)
+## 🟡 Phase 2 – Database & Data Analysis (In Progress)
 
-- ⏳ Data Analysis Project (NumPy + Pandas)  
-- ⏳ Data Visualization Project (Matplotlib + Seaborn)
+⏳ SQL Mini Project – Sales Management System  
+Relational database with primary/foreign keys, joins, aggregations, and real-world business queries.
 
----
-
-# 🔵 Phase 3 – Machine Learning
-
-- ⏳ Regression Model Project  
-- ⏳ Classification Model Project  
+⏳ Data Analysis Project  
+Real-world dataset analysis using Pandas, NumPy, and visualization tools. Includes data cleaning, missing value handling, and insight extraction.
 
 ---
 
-# 🟣 Phase 4 – Deep Learning
+## 🔵 Phase 3 – Machine Learning & Deployment (Capstone Level)
 
-- ⏳ ANN Project  
-- ⏳ CNN (Computer Vision) Project  
+⏳ Regression Model Project – House Price Prediction  
+Linear regression model built using multiple features with:
+- Train/Test Split  
+- Feature Scaling  
+- Model Evaluation (MAE, MSE, R²)  
+- Business insight interpretation  
 
----
-
-# 🟤 Phase 5 – Natural Language Processing
-
-- ⏳ NLP Text Classification Project  
-
----
-
-# ⚫ Phase 6 – Deployment
-
-- ⏳ ML Model Deployment (Flask / FastAPI)
-
----
-
-# 🔴 Phase 7 – Capstone Project
-
-- ⏳ End-to-End AI System (Data → Model → Deployment)
+⏳ Classification Model Project – Customer Churn Prediction  
+End-to-end machine learning system including:
+- Data preprocessing  
+- Logistic Regression  
+- Confusion Matrix  
+- Precision / Recall  
+- ROC Curve  
+- Model Saving (pickle/joblib)  
+- Flask API Deployment  
+- API Testing  
 
 ---
 
-## 📈 Roadmap Strategy
+## 📈 Portfolio Strategy
 
-This portfolio is built using a structured progression:
+This portfolio follows a structured execution plan:
 
 1. Master Python fundamentals  
-2. Develop strong data handling skills  
-3. Build core machine learning models  
-4. Advance into deep learning  
-5. Apply AI to NLP and Computer Vision  
-6. Deploy models into real-world systems  
+2. Strengthen SQL and database skills  
+3. Build real-world data analysis workflows  
+4. Develop practical machine learning models  
+5. Deploy models into production-ready APIs  
 
----
-
-## 📌 Portfolio Philosophy
-
-- Each project is maintained in a separate repository  
-- Emphasis on clean structure and documentation  
-- Focus on depth over quantity  
-- Continuous improvement and iteration  
-
----
-
-🚀 This repository will evolve as new projects are completed.
+Focus: Depth over quantity. Clean architecture. Real-world thinking.
