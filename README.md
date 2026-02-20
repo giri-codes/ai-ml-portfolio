@@ -1,4 +1,4 @@
-# 🚀 AI/ML Projects Portfolio
+# AI/ML Projects Portfolio :
 
 This repository serves as the master index of my structured journey toward becoming a Machine Learning Engineer.
 
@@ -89,7 +89,7 @@ Includes:
 
 ---
 
-# 📈 Portfolio Strategy
+# Portfolio Strategy
 
 - Build strong Python foundations  
 - Design real-world relational databases  
@@ -97,4 +97,4 @@ Includes:
 - Develop practical machine learning systems  
 - Deploy ML models into production-ready APIs  
 
-**Focus:** Depth over quantity. Clean architecture. Execution. Consistency.
+**Focus :** Depth over quantity. Clean architecture. Execution. Consistency.
